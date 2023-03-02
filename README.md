@@ -5,4 +5,4 @@ Its shows how the content will look on th diff-diff devices like Laptops, Mobile
 How the content changes its width, position, size etc.
 
 ![mod](Capture.PNG)
-![mod](2.png)
+![mod-1](2.PNG)
