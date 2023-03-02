@@ -10,8 +10,8 @@ PIC:1--Desktop Screen
 ![mod-1](2.PNG)
 PIC:2-- MAX Width
 
-![mod-1](3.PNG)
+![mod-1](3rd.PNG)
 PIC:2-- Table Screen
 
-![mod-1](4.PNG)
+![mod-1](4th.PNG)
 PIC:2-- Mobile Screen
